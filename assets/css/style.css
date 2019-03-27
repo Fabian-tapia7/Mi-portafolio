@@ -9,6 +9,11 @@ body{
   font-family: 'Raleway', sans-serif;
 }
 
+.img-carousel{
+  width: auto;
+  height: 15rem;
+}
+
 header {
   background-image: url('../img/header.jpg');
   background-repeat: no-repeat;
